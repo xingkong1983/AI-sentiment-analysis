@@ -29,3 +29,10 @@ Q：运行 lstm_model_train.py 遇到 需要导入pydot的问题 ?
 A: 可以尝试下面的方法:    
 conda install graphviz
 conda install pydotplus
+
+
+
+## 参考
+
+1. https://blog.csdn.net/jclian91/article/details/90316414 NLP入门（十）使用LSTM进行文本情感分析
+
