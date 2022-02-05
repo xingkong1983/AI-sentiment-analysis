@@ -1,4 +1,4 @@
-# ai-sentiment-analysis
+# AI sentiment analysis
 一个完整的句子的情感分析。
 这里包含了两种方式来进行情感分析，一种是基于情感词典进行情感分析，一种是基于 lstm 进行情感分析，你可以很方便的对比这两种方式的本质区别。
 lstm 基于 keras 和 tensorflow 。
