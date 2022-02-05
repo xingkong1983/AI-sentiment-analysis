@@ -22,3 +22,10 @@ lstm 基于 keras 和 tensorflow 。
 - lstm 模型测试 lstm_model_test.py
 - 普通的基于词典的情感分析 qgcd.py
 - tensorflow 基础测试 tensorflow-test.py
+
+
+## 问题
+Q：运行 lstm_model_train.py 遇到 需要导入pydot的问题 ?
+A: 可以尝试下面的方法:    
+conda install graphviz
+conda install pydotplus
