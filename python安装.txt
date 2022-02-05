@@ -1,0 +1,48 @@
+# 安装jupyter notebook
+pip install -i https://pypi.doubanio.com/simple/ jupyter
+
+# 安装主题
+pip install -i https://pypi.doubanio.com/simple/ jupyterthemes
+
+# 设置主题 
+jt -t monokai -f roboto -nf robotosans -tf robotosans -N -T -cellw 70% -dfs 10 -ofs 10
+
+pip install -i https://pypi.doubanio.com/simple/  gensim
+
+pip install  -i https://pypi.doubanio.com/simple/  tqdm
+pip install  -i https://pypi.doubanio.com/simple/ matplotlib
+pip install  -i https://pypi.doubanio.com/simple/ pickle
+pip install  -i https://pypi.doubanio.com/simple/ sklearn
+pip install  -i https://pypi.doubanio.com/simple/ pydot
+
+pip install -i https://pypi.doubanio.com/simple/ pydot-ng
+pip install -i https://pypi.doubanio.com/simple/ graphviz
+
+
+pip install  -i https://pypi.doubanio.com/simple/ numpy
+pip install -i https://pypi.doubanio.com/simple/ pandas
+pip install -i https://pypi.doubanio.com/simple/ pretty_errors
+
+python -m pip -i install https://pypi.doubanio.com/simple/ --upgrade pip
+
+pip install -i https://pypi.doubanio.com/simple/ jieba
+
+pip install -i https://pypi.doubanio.com/simple/ tensorflow-gpu
+pip install -i https://pypi.doubanio.com/simple/ theano
+pip install -i https://pypi.doubanio.com/simple/ Scipy
+pip install -i https://pypi.doubanio.com/simple/ mkl
+pip install -i https://pypi.doubanio.com/simple/ scikit-learn
+pip install -i https://pypi.doubanio.com/simple/ matplotlib
+pip install -i https://pypi.doubanio.com/simple/ keras
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow_gpu==1.12.0
+
+pip install -i https://pypi.doubanio.com/simple/ tensorflow_gpu==1.12.0
+
+pip install -i https://pypi.doubanio.com/simple/ tensorflow_gpu==1.12.0
+
+
+参考文档：
+超好用的 pandas 之 groupby
+https://www.jianshu.com/p/42f1d2909bb6
+
+
